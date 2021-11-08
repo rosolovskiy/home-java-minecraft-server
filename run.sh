@@ -1,0 +1,1 @@
+docker run -d -it -p 25565:25565 my-minecraft-server
