@@ -1,1 +1,1 @@
-docker run -d -it -p 25565:25565 my-minecraft-server
+docker run -d -it -p 25565:25565 -v mc-server-data:/opt/minecraft/ my-minecraft-server
